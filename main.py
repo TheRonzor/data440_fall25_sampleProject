@@ -1,3 +1,5 @@
 import pandas as pd
+import numpy as np
 
-print('Hello World!')
+import sys
+print(f'Python version: {sys.version}')
