@@ -6,7 +6,7 @@ Use this repository as a general guideline for how to structure you own reposito
 
 First of all, always have a README.md like this one. The goal of your README should be to give users a high-level explanation of what your code is about and how to use it.
 
-You will often need to create more detailed documentation/instructions as well. Place those in a separate file, in link to them from the README.
+You will often need to create more detailed documentation/instructions as well. Place those in a separate file, and link to them from the README.
 
 ---
 
