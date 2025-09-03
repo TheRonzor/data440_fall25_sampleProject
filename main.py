@@ -1,3 +1,5 @@
-from src.analysis import get_data
+from src.analysis import make_data, save_data, load_data
+from src.viz import make_figure
 
-print(get_data())
+data = make_data()
+make_figure(data, 'test.svg')
