@@ -1,5 +1,3 @@
-import pandas as pd
-import numpy as np
-import sys
+from src.analysis import get_data
 
-print(f'Python version: {sys.version}')
+print(get_data())
