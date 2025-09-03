@@ -40,7 +40,7 @@ You should provide a high-level description of the contents of your repository. 
 
 `src/`: The source code. This should contain all of the code that is needed to make your project work. We place it in a separate folder so that:
 
-- it is clear to the user that this is the source code, and they do not need to look at it unless the want to
+- it is clear to the user that this is the source code, and they do not need to look at it unless they want to
 - the root directory of the repository does not get cluttered
 
 `data/`: As the name implies, put data in this folder. If you have a project containing raw and processed versions of the data, then you should create subdirectories such as `data/raw` and `data/processed`, for example. Use your best judgment and stay organized!
